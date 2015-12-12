@@ -1,17 +1,17 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**iTip** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Abby Bassie**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
 * [ ] UI animations
@@ -22,6 +22,10 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+- I designed and implemented my own app icon
+- I used a variety of fonts and symbols
+- I created a check for the settings screen-- if the user does not provide input for all three default
+    tip percentages, an error message will appear and ask the user to provide input 
 
 ## Video Walkthrough 
 ## Abby Bassie
