@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/CRIW0w2' title='iTip' width='312' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/CRIW0w2.gif?1' title='iTip' width='312' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -46,7 +46,7 @@ and I learned quickly. It was great fun!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2015] [codepath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
